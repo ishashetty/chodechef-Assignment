@@ -203,7 +203,7 @@ td {
 
 
 
-.activeimage, .dot:hover {
+.activeimage {
   background-color: #717171;
 }
 
